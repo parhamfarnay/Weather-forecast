@@ -1,6 +1,6 @@
 import React from "react";
 import SVG from "react-inlinesvg";
-import Turbine from "./turbine";
+import Turbine from "./components/turbine";
 
 const AnimatedView = () => {
   return (
