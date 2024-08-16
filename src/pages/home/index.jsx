@@ -4,6 +4,7 @@ import Status from "./components/status";
 import "./home.scss";
 import SideBar from "../../components/sideBar";
 import DotsMenu from "../../components/dotsMenu";
+import Endpoints from "../../constants/endpoints";
 
 const Home = () => {
   const [cityInfo, setCityInfo] = useState({});
